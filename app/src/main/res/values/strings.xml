@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player">Player</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="arrowdropup">ArrowDropUp</string>
+    <string name="replay">Replay</string>
+    <string name="reset">Reset</string>
+</resources>
